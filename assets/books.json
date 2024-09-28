@@ -1,0 +1,60 @@
+{
+  "books": [
+    {
+      "title": "บ้านสะสมความเหงากับเรื่องราวที่ไม่มีใครได้ยิน",
+      "author": "มาจิดะ โซโนะโกะ",
+      "coverImage": "assets/picture/บ้านสะสมความเหงา-768x768.png",
+      "category": "Fiction",
+      "ISBN": "9786160456102"
+    },
+    {
+      "title": "ชีวิตของพวกผมก็รสขมแบบนี้แหละ",
+      "author": "อี กย็องรัน",
+      "coverImage": "assets/picture/sg-11134201-7rdvy-m0cchq9lpi2x8d.jpg",
+      "category": "Biography",
+      "ISBN": "9786168247177"
+    },
+    {
+      "title": "เมนูแห่งความหวัง ณ ร้านริมฝั่งทะเล",
+      "author": "ทากาชิ คิตาจิมะ",
+      "coverImage": "assets/picture/sg-11134201-7rdw1-lzl8b8xb80hg17-768x768.jpg",
+      "category": "Fiction",
+      "ISBN": "9786168247252"
+    },
+    {
+      "title": "ให้มื้ออุ่นๆ กอดใจคุณก่อนนะ",
+      "author": "ทาเคอุจิ มาซามิ",
+      "coverImage": "assets/picture/sg-11134201-7rdyd-lzco6t4p3dhie4-768x768.jpg",
+      "category": "Fiction",
+      "ISBN": "9786168247269"
+    },
+    {
+      "title": "ของว่างที่เฝ้ารอกับคำขออย่างสุดท้าย",
+      "author": "โอกาวะ อิโตะ",
+      "coverImage": "assets/picture/81DB93EC-CCFC-472A-8F71-ACA4095BBE86.png",
+      "category": "Fiction",
+      "ISBN": "9786168247283"
+    },
+    {
+      "title": "แกงกะหรี่สูตรลับกับปริศนาในคาเฟ่หนังสือ",
+      "author": "ยานาเซะ มิจิรุ",
+      "coverImage": "assets/picture/cddtsiujl^9iy-768x768.png",
+      "category": "Mystery",
+      "ISBN": "9786168247351"
+    },
+    {
+      "title": "บ้านที่มีแมวขี้โกหกกับหมาในจินตนาการ",
+      "author": "เทราจิ ฮารุนะ",
+      "coverImage": "assets/picture/แมวขี้โกหก.png",
+      "category": "Fantasy",
+      "ISBN": "9786168247405"
+    },
+    {
+      "title": "ร้านร่ม บริการกาแฟและรับจ้างสารพัด",
+      "author": "เทราจิ ฮารุนะ",
+      "coverImage": "assets/picture/ร้านร่ม.png",
+      "category": "Fiction",
+      "ISBN": "9786168247412"
+    }
+  ]
+}
